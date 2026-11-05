@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "AI methods leveraging formal biological knowledge for next-generation phenotyping in rare genetic disorders<br />Clemson Center for Human Genetics; Greenwood, SC, USA",
+    34.1489805,
+    -82.112882
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "AI methods for next-generation phenotyping in biomedical applications<br />AMIA Annual Symposium; Atlanta, GA, USA",
+    33.7544657,
+    -84.3898151
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "PhenoGnet: A Graph-Based Contrastive Learning Framework for Disease Similarity Prediction<br />Clemson Artificial Intelligence Symposium; Clemson, SC, USA",
+    34.6850749,
+    -82.8364111
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "AI methods leveraging formal biological knowledge for next-generation phenotyping in rare genetic disorders<br />Clemson High Performance Computing (HPC) Day; Clemson, SC, USA",
+    34.6850749,
+    -82.8364111
+  ],
+  [
+    "AI methods for next-generation phenotyping in rare genetic disorders<br />American Society of Human Genetics (ASHG) Annual Meeting; Boston, MA, USA",
+    42.3588336,
+    -71.0578303
   ]
 ];
