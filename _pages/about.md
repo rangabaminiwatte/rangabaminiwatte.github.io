@@ -12,8 +12,7 @@ Before Clemson, I earned a BSc in Applied Mathematics and Computer Science at th
 
 I'm an applied machine learning researcher working on AI methods that support biomedical discovery and clinical interpretation, with a focus on rare genetic disorders.
 
-Research interests
-======
+
 * **Next-generation phenotyping.** Learning a quantifiable ontology of facial features from clinical images and anatomical priors, to support rare disease diagnosis.
 * **Biomedical knowledge graphs.** Graph contrastive learning over multi-relational knowledge graphs to model disease similarity for patient retrieval and phenotype-based cohort discovery ([PhenoGnet](https://arxiv.org/abs/2509.14037)).
 * **Interpretable, multimodal diagnosis.** Combining images, clinical features and formal biological knowledge such as the Human Phenotype Ontology into predictions clinicians can inspect.
