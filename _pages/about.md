@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ranga, a PhD candidate in Biomedical Data Science and Informatics at Clemson University and the Medical University of South Carolina. 
-Before Clemson, I earned a BSc in Applied Mathematics and Computer Science at the Higher School of Economics in Moscow
-
-I'm an applied machine learning researcher working on AI methods that support biomedical discovery and clinical interpretation, with a focus on rare genetic disorders.
+Hi, I'm Ranga, a PhD candidate in Biomedical Data Science and Informatics at [Clemson University](https://www.clemson.edu/) and the Medical University of South Carolina([MUSC](https://www.musc.edu/)). Also I’m a member of Clemson University Institute for Human Genetics([CUIHG](https://scienceweb.clemson.edu/ihg/)). I’m currently being advised by [Dr. Aaron J. Masino](https://amasino.people.clemson.edu/).
 
 
 * **Next-generation phenotyping.** Learning a quantifiable ontology of facial features from clinical images and anatomical priors, to support rare disease diagnosis.
