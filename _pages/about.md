@@ -16,5 +16,5 @@ Hi, I'm Ranga, a PhD candidate in Biomedical Data Science and Informatics at [Cl
 
 I build end-to-end deep learning pipelines across graph learning and computer vision, from data preprocessing and GPU-optimised training to evaluation and reporting. I also serve as a peer reviewer for computational genomics manuscripts.
 
-Additionally, I’m a member of Clemson University Institute for Human Genetics([CUIHG](https://scienceweb.clemson.edu/ihg/)).
+Additionally, I’m a member of Clemson University Institute for Human Genetics ([CUIHG](https://scienceweb.clemson.edu/ihg/)).
 
